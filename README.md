@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shenshendrax
-- 👀 I’m interested in Z80, CerberusX, Love2D, and C++ game programming.
+- 👀 I’m interested in Z80 Assembly, Cerberus-X, Love2D, C++ and Rust/Bevy game programming.
 - 🌱 I’m currently dabbling in all of the above but its infrequent going! 
 - 📫 How to reach me: sal@gunduz.com 
 
